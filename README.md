@@ -1,6 +1,4 @@
 # Game 2048
-Tech stack: HTML5, SCSS, JS;
-Used Flex, BEM, SASS;
 1. Tech stack:
     - HTML5
     - SCSS
